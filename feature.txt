@@ -1,0 +1,6 @@
+Tính năng mới: Ghi chú học tập tự động
+- Hệ thống sẽ lưu lại kế hoạch học tập mỗi tuần.
+- Tự động đồng bộ với GitHub.
+- Có thể chỉnh sửa online.
+- Hiển thị lịch học theo ngày.
+- Gửi nhắc nhở qua email.
