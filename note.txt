@@ -2,3 +2,5 @@ Cảm nhận về Git:
 - Git giúp tôi quản lý mã nguồn dễ dàng hơn.
 - Tôi có thể quay lại bất kỳ phiên bản nào.
 - Git hỗ trợ làm việc nhóm rất hiệu quả.
+- Tôi thích dùng GitHub để lưu trữ project cá nhân.
+- Lịch sử commit giúp tôi theo dõi tiến độ học tập.
